@@ -1,2 +1,2 @@
-# meu-primeiro-repositorio
-meu repositório para aula
+# Primeiro desafio da DIO
+Repositorio do desafio GIT/GITHUB
